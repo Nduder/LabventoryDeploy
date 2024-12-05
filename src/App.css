@@ -1,0 +1,13 @@
+.csvGenerator-component {
+  display: flex;
+  flex-direction: column;
+}
+
+.sampleGenerator-component {
+  gap: 20px;
+  padding: 10px;
+}
+
+.app-container {
+  padding: 20px;
+}
